@@ -1,15 +1,17 @@
-import { Component, OnInit } from '@angular/core';
+// import { Component, OnInit } from '@angular/core';
+// import { MiniArea } from 'ant-design-pro/lib/Charts';
+// import moment from 'moment';
 
-@Component({
-  selector: 'app-icons',
-  templateUrl: './icons.component.html',
-  styleUrls: ['./icons.component.css']
-})
-export class IconsComponent implements OnInit {
+// @Component({
+//   selector: 'app-icons',
+//   templateUrl: './icons.component.html',
+//   styleUrls: ['./icons.component.css']
+// })
+// export class IconsComponent implements OnInit {
 
-  constructor() { }
+//   constructor() { }
 
-  ngOnInit(): void {
-  }
+//   ngOnInit(): void {
+//   }
 
-}
+// }
